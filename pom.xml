@@ -48,9 +48,9 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <properties>
-                <!-- Optional URL to server. Default value is http://localhost:9000 -->
+                <!-- SonarQube server URL -->
                 <sonar.host.url>
-                    http://localhost:9000
+                    http://34.235.143.215:9000
                 </sonar.host.url>
             </properties>
         </profile>
